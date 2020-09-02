@@ -1,2 +1,2 @@
 # JavaScript
-Explicación de los programas en JavaScript
+Explicación de los programas de JavaScript
